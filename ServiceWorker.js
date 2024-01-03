@@ -1,9 +1,9 @@
 const cacheName = "Chaos Galore Unlimited Co.-Rhyme-1.0";
 const contentToCache = [
     "Build/rhyme.loader.js",
-    "Build/rhyme.framework.js.gz",
-    "Build/rhyme.data.gz",
-    "Build/rhyme.wasm.gz",
+    "Build/rhyme.framework.js",
+    "Build/rhyme.data",
+    "Build/rhyme.wasm",
     "TemplateData/style.css"
 
 ];
