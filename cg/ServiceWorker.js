@@ -1,9 +1,9 @@
 const cacheName = "6qn.cc-CraftGate-0.1";
 const contentToCache = [
     "Build/webgl.loader.js",
-    "Build/webgl.framework.js.gz",
-    "Build/webgl.data.gz",
-    "Build/webgl.wasm.gz",
+    "Build/webgl.framework.js",
+    "Build/webgl.data",
+    "Build/webgl.wasm",
     "TemplateData/style.css"
 
 ];
